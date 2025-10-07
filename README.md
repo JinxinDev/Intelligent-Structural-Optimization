@@ -83,3 +83,7 @@ The framework is demonstrated through Ultra-High Performance Concrete (UHPC) bea
 - Underdeveloped design codes necessitate FEA-based evaluation
 - Superior material properties enable unconventional designs (e.g., minimal/no stirrups)
 - Multi-objective optimization explores
+**Representative Results**:
+- Cost range: $1,340 - $6,405
+- Deflection range: 1.67 mm - 73.21 mm
+- All solutions meet ACI 318-25 ultimate and serviceability requirements
