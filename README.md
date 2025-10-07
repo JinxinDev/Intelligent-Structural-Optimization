@@ -20,7 +20,7 @@ This repository contains supplementary materials for our research on LLM-integra
 ### Performance Highlights
 
 - **88% reduction** in human effort vs. manual design
-- **76% reduction** in computational time vs. traditional optimization (50×50 parameters)
+- **56% reduction** in computational time vs. traditional optimization (50×50 parameters)
 - **Perfect accuracy** (F1-score = 1.0) on 30 diverse test queries
 - **5.2 hours** total time to generate 27 Pareto-optimal solutions
 
